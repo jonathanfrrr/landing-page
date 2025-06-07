@@ -1,1 +1,1 @@
-first "project" gonna add some more stuff
+first project, gon make this cooler
