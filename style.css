@@ -1,0 +1,35 @@
+#header{
+    text-align: center;
+    border: 10px;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(176, 237, 255);
+}
+
+#holder{
+    text-align: center;
+    border: 5px solid;
+    border-radius: 50px;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+
+#catvid{
+    width: 250px;
+    border: 3px solid;
+    border-radius: 25px;
+    border-color: grey;
+}
+
+.fa-discord{
+    font-size: 40px;
+    color: rgb(114, 137, 250);
+}
+
+.fa-discord:hover{
+    font-size: 45px;
+}
+
