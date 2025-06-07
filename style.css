@@ -33,3 +33,12 @@ body{
     font-size: 45px;
 }
 
+.fa-github{
+    font-size: 40px;
+    color: black;
+    margin-left: 15px;
+}
+
+.fa-github:hover{
+    font-size: 45px;
+}
